@@ -23,8 +23,8 @@ export type MessageType = {
         name: string
     }
     message: {
-        text: string
-        time: string
+        text: string,
+        time: string,
     }
 }
 
